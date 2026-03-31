@@ -212,3 +212,6 @@ cookies.txt
 *.cookies
 instagram_cookies.txt
 instagram_cookies.json
+instagram_profiles.csv
+instagram_profiles.json
+input.txt
