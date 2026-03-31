@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+/profile_pics/
+.input.txt
+cookies.txt
+*.cookies
+instagram_cookies.txt
+instagram_cookies.json
